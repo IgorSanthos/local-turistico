@@ -1,0 +1,100 @@
+*{
+    margin: 0  auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+    font-family: "Open Sans";
+    
+}
+
+body{
+    background-color: #000000;
+    
+   
+}
+
+h1 {
+    font-size: 36px auto;
+    margin-bottom: 40px;
+    font-weight:bold;
+}
+
+h2 {
+    font-size: 28px auto;
+}
+h3 {
+    font-size: 16px bold;
+}
+
+h4{
+    font-size: 16px auto;
+    color: #e5245e;
+}
+
+p {
+    color: rgba(33, 33, 33, 0.764);
+    
+}
+
+p h3{
+    margin: 10px;
+}
+
+
+main {
+    margin:0px 100px;
+    padding: 88px 80px ;
+    text-align: left;
+    background-color: white;
+}
+
+
+
+#busan figcaption {
+padding: 0px 20px;
+letter-spacing:.08cap
+}
+
+#busan img {
+    width: 100%;
+}
+
+h2 li {margin-left: 40px;}
+
+#busan hr {
+    margin-top: 40px;
+}
+
+#headline{
+    margin: 64px auto;
+}
+
+#dicas{
+    padding: 0;
+}
+
+ol img {
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+#busan figcaption{
+    text-align: center;
+}
+
+ol div{
+    margin: 48px 0;
+}
+
+hr {
+    margin: 40px auto;
+}
+#final {
+    text-align: center;
+}
+
+footer {
+    background-color: #ffffff;
+    text-align: center;
+    font-family: "Alice", serif;
+    margin:0px 100px;
+}
